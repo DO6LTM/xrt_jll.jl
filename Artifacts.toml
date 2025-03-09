@@ -1,0 +1,38 @@
+[[xrt]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f425c73e6365cf4f78a18af25ac890ba17e268f4"
+libc = "glibc"
+os = "linux"
+
+    [[xrt.download]]
+    sha256 = "a0b4e0fa186b1f0290f94beec6b95e0990fee3a6ceb2b7150342c51c71722231"
+    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.16.0+0/xrt.v2.16.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[xrt]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "61e03abc6c250898d579737a911b4dddf5764ad8"
+libc = "glibc"
+os = "linux"
+
+    [[xrt.download]]
+    sha256 = "3db0a5ee787156b7febaff5642d0cce48b1add1c11d2907394fc56dcafa65bbd"
+    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.16.0+0/xrt.v2.16.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[xrt]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a8e3a3fbaabf28c4fde7f5e320bdaa461b972b0b"
+os = "windows"
+
+    [[xrt.download]]
+    sha256 = "1112f7ff42a39888f882e058116c3591b6bfc3e9b7d67b1bad24225befb7ff88"
+    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.16.0+0/xrt.v2.16.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[xrt]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4ea69db97bf68e33e008e12a7fbdd650140797e9"
+os = "windows"
+
+    [[xrt.download]]
+    sha256 = "194eb2604462cb6e8a2e9dd49db34a49bf60bacc1c3e444ab60e067477c888ea"
+    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.16.0+0/xrt.v2.16.0.x86_64-w64-mingw32-cxx11.tar.gz"
