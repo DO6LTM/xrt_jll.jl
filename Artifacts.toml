@@ -1,38 +1,38 @@
 [[xrt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f425c73e6365cf4f78a18af25ac890ba17e268f4"
+git-tree-sha1 = "d4b13286cdd5d7210af7b656c8587b0118097a37"
 libc = "glibc"
 os = "linux"
 
     [[xrt.download]]
-    sha256 = "a0b4e0fa186b1f0290f94beec6b95e0990fee3a6ceb2b7150342c51c71722231"
-    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.16.0+0/xrt.v2.16.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "584341c6b145c7417d197fd9ead894bc60b13c7d4f7c4ac347a2be96b1991b40"
+    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.17.0+2/xrt.v2.17.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[xrt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "61e03abc6c250898d579737a911b4dddf5764ad8"
+git-tree-sha1 = "a2b8e75d8aee68c69d3886f620e9210d79f4030a"
 libc = "glibc"
 os = "linux"
 
     [[xrt.download]]
-    sha256 = "3db0a5ee787156b7febaff5642d0cce48b1add1c11d2907394fc56dcafa65bbd"
-    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.16.0+0/xrt.v2.16.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "b896fe1073fb5c2dd31cec84e7c4c15bcbc2444ddefd3a7fa4824f64bb6eac2f"
+    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.17.0+2/xrt.v2.17.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[xrt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a8e3a3fbaabf28c4fde7f5e320bdaa461b972b0b"
+git-tree-sha1 = "7bbb3db58db4bc38bb2016b69c6788fca16ff062"
 os = "windows"
 
     [[xrt.download]]
-    sha256 = "1112f7ff42a39888f882e058116c3591b6bfc3e9b7d67b1bad24225befb7ff88"
-    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.16.0+0/xrt.v2.16.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "b69c31a989de68a88a0f72dfef23fb1fc35d566cdcd077198dd8c8d0b11f6d0a"
+    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.17.0+2/xrt.v2.17.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[xrt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4ea69db97bf68e33e008e12a7fbdd650140797e9"
+git-tree-sha1 = "a7f6074ec0dfc09d15af1d6e411539d17bab3397"
 os = "windows"
 
     [[xrt.download]]
-    sha256 = "194eb2604462cb6e8a2e9dd49db34a49bf60bacc1c3e444ab60e067477c888ea"
-    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.16.0+0/xrt.v2.16.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "686bbacd38866b21a4bde91d8fe42cd4ff1d81b18e606a6da71bc12af31b7f51"
+    url = "https://github.com/DO6LTM/xrt_jll.jl/releases/download/xrt-v2.17.0+2/xrt.v2.17.0.x86_64-w64-mingw32-cxx11.tar.gz"
